@@ -41,7 +41,7 @@ const ColorAnalysisPage = () => {
           isDarkMode ? 'text-white' : 'text-gray-800'
         } 
         bg-gradient-to-r from-primary-500 to-accent-500 text-transparent bg-clip-text animate-gradient`}>Color Analysis</h1>
-        <p className="text-gray-600 max-w-2xl mx-auto">
+        <p className="text-yellow-600 max-w-2xl mx-auto">
           Upload your photo and let our AI analyze your skin tone to recommend the perfect colors for your wardrobe
         </p>
       </motion.div>
